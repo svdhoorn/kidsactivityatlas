@@ -2,3 +2,5 @@
 index.Rmd
 kidsactivityatlas.qgz
 data.geojson
+.RData
+.Rhistory
