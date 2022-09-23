@@ -73,6 +73,7 @@
 { "type": "Feature", "properties": { "Naam": "Eilandhoppen", "Categorie": "Wandelen", "Icon": null, "Website": null, "Locatie": null }, "geometry": { "type": "Point", "coordinates": [ 11.82686736166645, 57.643881746121735 ] } },
 { "type": "Feature", "properties": { "Naam": "Papierfabriek De Middelste Molen", "Categorie": "Museum", "Icon": null, "Website": "https:\/\/www.demiddelstemolen.nl\/", "Locatie": null }, "geometry": { "type": "Point", "coordinates": [ 6.04617193534258, 52.129179606830711 ] } },
 { "type": "Feature", "properties": { "Naam": "Vlindertuin in de Kas", "Categorie": "Dierentuin", "Icon": null, "Website": "https:\/\/www.vlindertuindekas.nl\/", "Locatie": null }, "geometry": { "type": "Point", "coordinates": [ 6.210697739754973, 52.129187011653379 ] } },
-{ "type": "Feature", "properties": { "Naam": "StadsAkkers Zuidbroek", "Categorie": "Wandelen", "Icon": null, "Website": "https:\/\/stadsakkers.nl\/", "Locatie": null }, "geometry": { "type": "Point", "coordinates": [ 6.009084668048787, 52.233176505682614 ] } }
+{ "type": "Feature", "properties": { "Naam": "StadsAkkers Zuidbroek", "Categorie": "Wandelen", "Icon": null, "Website": "https:\/\/stadsakkers.nl\/", "Locatie": null }, "geometry": { "type": "Point", "coordinates": [ 6.009084668048787, 52.233176505682614 ] } },
+{ "type": "Feature", "properties": { "Naam": "Parco nazionale d'Abruzzo", "Categorie": "Wandelen", "Icon": null, "Website": "http:\/\/www.parcoabruzzo.it\/", "Locatie": "Buiten" }, "geometry": { "type": "Point", "coordinates": [ 13.840532347842339, 41.802559350643541 ] } }
 ]
 }
