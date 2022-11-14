@@ -164,6 +164,7 @@
 { "type": "Feature", "properties": { "Naam": "Ragelunds camping", "Categorie": "Overnachten", "Icon": null, "Website": "https:\/\/www.ragelundscamping.com\/", "Locatie": "Buiten" }, "geometry": { "type": "Point", "coordinates": [ 12.151731946554277, 57.334898254226808 ] } },
 { "type": "Feature", "properties": { "Naam": "Kampeerterrein De Toekomst", "Categorie": "Overnachten", "Icon": null, "Website": "http:\/\/www.kampeerterreindetoekomst.nl\/", "Locatie": "Buiten" }, "geometry": { "type": "Point", "coordinates": [ 5.954457183553565, 52.329964604485092 ] } },
 { "type": "Feature", "properties": { "Naam": "Kungsleden wandelroute", "Categorie": "Wandelen", "Icon": null, "Website": "https:\/\/visitsweden.nl\/te-doen\/natuur-buitenleven\/wandelen\/kungsleden-de-koningsroute-het-noorden\/", "Locatie": "Buiten" }, "geometry": { "type": "Point", "coordinates": [ 17.05196456528035, 67.591160768532887 ] } },
-{ "type": "Feature", "properties": { "Naam": "Skaneleden - wandelroute", "Categorie": "Wandelen", "Icon": null, "Website": "https:\/\/skaneleden.se\/en", "Locatie": "Buiten" }, "geometry": { "type": "Point", "coordinates": [ 13.973550866895282, 56.249957982511852 ] } }
+{ "type": "Feature", "properties": { "Naam": "Skaneleden - wandelroute", "Categorie": "Wandelen", "Icon": null, "Website": "https:\/\/skaneleden.se\/en", "Locatie": "Buiten" }, "geometry": { "type": "Point", "coordinates": [ 13.973550866895282, 56.249957982511852 ] } },
+{ "type": "Feature", "properties": { "Naam": "Minicamping Driehuis", "Categorie": "Overnachten", "Icon": null, "Website": "http:\/\/www.minicampingdriehuis.com\/", "Locatie": "Buiten" }, "geometry": { "type": "Point", "coordinates": [ 5.673879723572908, 51.746307949842723 ] } }
 ]
 }
